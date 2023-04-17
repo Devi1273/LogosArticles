@@ -1,0 +1,130 @@
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+h1
+{
+	font-family: monospace;
+	color: white;
+	
+	/*
+	position: absolute;
+	
+	top: 12%;
+	left: 50%;
+	
+	transform: translateX(-50%);
+	*/
+	font-size: 3vw;
+	text-align: center;
+}
+
+h2
+{
+	font-family: monospace;
+	color: white;
+	/*
+	position: absolute;
+	
+	top: 23%;
+	left: 50%;
+	
+	transform: translateX(-50%);
+	*/
+	
+	font-size: 2vw;
+	text-align: center;
+}
+
+h3
+{
+	font-family: monospace;
+	color: white;
+	/*
+	position: absolute;
+	
+	top: 29.5%;
+	left: 50%;
+	
+	transform: translateX(-50%);
+	*/
+	font-size: 2vw;
+	text-align: center;
+}
+
+h4
+{
+	
+	font-family: monospace;
+	color: white;
+	/*
+	position: absolute;
+	
+	top: 40%;
+	left: 50%;
+	
+	transform: translateX(-50%);
+	*/
+	font-size: 2vw;
+	text-align: center;
+}
+
+
+
+p
+{
+	font-family: monospace;
+	color: white;
+	
+	font-size: 2vw;
+}
+
+
+#ArticleText {
+	
+	color: #1c1c1c;
+	/*
+	position: absolute;
+	
+	top: 55%;
+	left: 50%;
+	
+	transform: translateX(-50%);
+	*/
+	font-size: 2vw;
+	text-align: center;
+}
+
+#ArticleHeader {
+	
+	font-family: monospace;
+	color: #1c1c1c;
+	/*
+	position: absolute;
+	
+	top: 55%;
+	left: 50%;
+	
+	transform: translateX(-50%);
+	*/
+	font-size: 3.5vw;
+	text-align: center;
+}
+
+#ArticleLink {
+	
+	font-family: monospace;
+	color: #1c1c1c;
+	/*
+	position: absolute;
+	
+	top: 23%;
+	left: 50%;
+	
+	transform: translateX(-50%);
+	*/
+	
+	font-size: 2vw;
+	text-align: center;
+}
